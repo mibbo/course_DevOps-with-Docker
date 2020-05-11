@@ -1,0 +1,7 @@
+Script started on 2020-04-28 14:46:40+03:00 [TERM="xterm-256color" TTY="/dev/pts/3" COLUMNS="144" LINES="32"]
+CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS                      PORTS               NAMES
+c54fcb8e46e7        nginx               "nginx -g 'daemon of…"   21 minutes ago      Exited (0) 21 minutes ago                       condescending_jackson
+d8063a2492cf        nginx               "nginx -g 'daemon of…"   22 minutes ago      Exited (0) 21 minutes ago                       objective_booth
+bce13d03e196        nginx               "nginx -g 'daemon of…"   22 minutes ago      Up 22 minutes               80/tcp              silly_pasteur
+
+Script done on 2020-04-28 14:46:40+03:00 [COMMAND_EXIT_CODE="0"]
